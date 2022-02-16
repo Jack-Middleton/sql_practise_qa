@@ -1,5 +1,7 @@
 # sql_practise_qa
 
+For this repo I used the feature branch method, to show that I understood last weeks lesson.
+
 ![image](https://user-images.githubusercontent.com/81429555/154256452-b2dd1604-e6c9-44d6-b2a9-9f767ae83e74.png)
 
 Apologies for the lines, draw.io is not very good at moving them. 
