@@ -7,7 +7,7 @@ WHERE release_date BETWEEN '1983-01-01' AND '1993-01-01'
 ORDER BY release_date desc;
 
 /* Question 2 */
-SELECT mo.title, ra.rating
+SELECT mo.title, AVG(ra.rating)
 FROM movies mo
 JOIN ratings ra
 ON ra.id=mo.id
